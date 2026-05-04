@@ -10,7 +10,7 @@ def plot_convergencia(it_jacobi, log_jacobi, it_gs, log_gs):
     plt.plot(it_gs, log_gs, marker='s', color='red', linestyle='--', label='Gauss-Seidel')
     plt.title('Convergência dos Métodos Iterativos')
     plt.xlabel('Número de Iterações')
-    plt.ylabel('log10(Erro Relativo)')
+    plt.ylabel('log10(Resíduo Relativo)')
     plt.grid(True)
     plt.legend()
     plt.tight_layout()
