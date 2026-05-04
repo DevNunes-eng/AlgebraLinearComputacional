@@ -17,8 +17,6 @@ Este repositório organiza o projeto por linguagem e responsabilidade.
 - `trabalho_algebra_linear/octave/`
   - arquivos Octave/MATLAB dos métodos Jacobi e Gauss-Seidel
 
-- `trabalho_algebra_linear/legacy/`
-  - scripts antigos de experimentação mantidos para referência
 
 ## Como usar
 
