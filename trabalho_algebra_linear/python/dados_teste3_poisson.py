@@ -60,4 +60,4 @@ vetores_b = [
 
 tolerancia = 1e-10
 
-max_iteracoes = 1000
+max_iter = 1000
